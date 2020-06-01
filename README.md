@@ -1,2 +1,0 @@
-# SuperSliderDemo
-Created with CodeSandbox
